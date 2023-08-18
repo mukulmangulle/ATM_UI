@@ -1,0 +1,189 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: 760px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container1 {
+    width: 70%;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container2 {
+    width: 30%;
+    height: 760px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    background-image: url("https://bankofindia.co.in/documents/20121/397030/iStock-1296010174.jpg/a2e7fc55-cf21-766a-c659-a94ba6f6b41b?t=1675740607503");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    width: 90%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ul1 {
+    width: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 22px;
+}
+
+.ul2 {
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 17px;
+}
+
+.p {
+    color: blue;
+}
+
+.hero-section {
+    width: 90%;
+    height: 450px;
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.hero-section h1 {
+    font-size: 60px;
+}
+
+.hero-section p {
+    font-size: 13px;
+}
+
+.hero-section-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-section-div button {
+    width: 150px;
+    height: 45px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: none;
+    background-color: blue;
+    border: none;
+    color: white;
+}
+
+.hero-section-div p {
+    font-size: 20px;
+    color: blue;
+    padding-left: 20px;
+}
+
+.child-section {
+    width: 100%;
+    height: 260px;
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+}
+
+.child-section p {
+    font-size: 13px;
+}
+
+.div1 {
+    width: 210px;
+    height: 250px;
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.div1 h2 {
+    font-size: 35px;
+}
+
+.div2 {
+    width: 210px;
+    height: 250px;
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.div3 {
+    width: 210px;
+    height: 250px;
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.div4 {
+    width: 210px;
+    height: 250px;
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.child-section img {
+    width: 45px;
+    height: 45px;
+}
+
+
+.img-section2 {
+    width: 100%;
+    height: 400px;
+}
+
+.navbar1 {
+    width: 80%;
+    height: 100px;
+    padding-bottom: 710px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 20px;
+}
+
+.navbar1 button {
+    width: 120px;
+    height: 35px;
+    background-color: black;
+    border: none;
+    color: white;
+    font-size: 15px;
+    border: 1px solid white;
+}
